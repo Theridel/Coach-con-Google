@@ -8,9 +8,6 @@ If you would like to retrace your steps, you can always revisit the exercise.
 
 [![](https://img.shields.io/badge/Return%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/Theridel/test-skills-github-pages/issues/1)
 
-> [!TIP]
-> Mona won't grade you this time! 😉
-
 
 ### Craving more? :raising_hand:
 
@@ -20,3 +17,4 @@ Let's keep the momentum going! Head over to [GitHub Skills](https://skills.githu
 
 
 E ho iniziato un progetto di coach con l'aiuto dell'AI. 
+Due progetti, in realtà ho molti riavvii. Comunque, quisvilupperò un sistema che sfrutta l'intelligenza artificiale con l'ambiente fornito gratuitamente da Google.
